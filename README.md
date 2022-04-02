@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Alfred-Owino
+- 👀 I’m interested in SQL and R/Python programmming
+- 🌱 I’m currently learning data analytics with Google
+- 💞️ I’m looking to collaborate on the learning path
+- 📫 How to reach me 
